@@ -1,7 +1,7 @@
 {
   "name": "simple-node-app",
   "version": "1.0.0",
-  "description": "Application is running successfully",
+  "description": "new task successful",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
